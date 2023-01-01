@@ -26,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LandmakTechnology/nodejs-application"
+    "url": "https://github.com/Devlopsguru/nodejs-application"
   },
   "keywords": [
     "node",
     "Landmark Technologies",
     "express"
   ],
-  "author": "Simon Legah",
+  "author": "Chichi Dike",
   "license": "MyLandmarkTech"
 }
